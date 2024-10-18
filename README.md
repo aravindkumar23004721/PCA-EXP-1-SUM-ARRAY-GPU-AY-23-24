@@ -177,7 +177,7 @@ int main(int argc, char **argv)
 
 ## OUTPUT:
 
-![](s1.png)
+![image](https://github.com/user-attachments/assets/063771ff-6534-4902-97e8-3e9eacb6f958)
 
 ## RESULT:
 
